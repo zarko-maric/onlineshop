@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Online Shop</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="welcome"><b>Welcome</b></string>
+    <string name="home">Home</string>
+    <string name="bag">Bag</string>
+    <string name="account">Account</string>
+    <string name="menu">Menu</string>
+    <string name="purchase_history">Purchase history</string>
+    <string name="my_profile">My profile</string>
+    <string name="end_session">End session</string>
+    <string name="email">Email</string>
+    <string name="change_password">Change password</string>
+    <string name="new_password">New password</string>
+    <string name="save">Save</string>
+    <string name="category1">Category1</string>
+    <string name="back">Back</string>
+    <string name="add">Add</string>
+    <string name="status">Status:</string>
+    <string name="date">Date:</string>
+    <string name="price">Price:</string>
+    <string name="statuss">STATUS</string>
+    <string name="pricee">PRICE</string>
+    <string name="datee">DATE</string>
+    <string name="lista_je_prazna">Lista je prazna.</string>
+    <string name="admin">Admin</string>
+    <string name="add_new_category">Add new category</string>
+    <string name="category_name">Category name</string>
+    <string name="item_name">Item name</string>
+    <string name="item_price">Item price</string>
+    <string name="item_category">Item category</string>
+    <string name="add_new_item">Add new item</string>
+</resources>
